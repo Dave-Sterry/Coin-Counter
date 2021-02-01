@@ -11,6 +11,7 @@
     "node": true
   },
   "rules": {
+    "no-unused-vars": "warn",
     "semi": 1,
     "indent": [
       "warn",
